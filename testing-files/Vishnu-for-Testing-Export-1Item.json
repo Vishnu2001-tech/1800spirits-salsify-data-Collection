@@ -1,0 +1,1415 @@
+{
+  "version": "1.0",
+  "feedDate": "2024-07-06T20:21:40",
+  "contentOwner": { "gln": "" },
+  "data": [
+    {
+      "subBrandText": null,
+      "sharingUnits": [],
+      "isPartitionedBy": [],
+      "permission_dimensions": {
+        "leclercCentralProcurement": [null],
+        "kind": [
+          "80727",
+          "82914",
+          "80726",
+          "9999",
+          "82913",
+          "80725",
+          "100980",
+          "100754"
+        ],
+        "productsegment": ["223749", "223751"],
+        "gpc": [null],
+        "targetmarket_id": ["840"],
+        "contentowner_id": ["20157"]
+      },
+      "product_key": {
+        "product_id": 8059833,
+        "organization_id": 20157,
+        "target_market_id": 840,
+        "source_type": "PRODUCT_KEY",
+        "source_id": 92952897
+      },
+      "lastUserHistoryDate": "2024-07-06T16:08:28.001Z",
+      "business_processes": [],
+      "targetProductStatus": "ACCEPTED",
+      "textileVariantList": [],
+      "id": 21064705,
+      "isClassifiedIn": null,
+      "brand": null,
+      "validation": {
+        "regulatory_status": 0,
+        "qualityChangedAt": "2023-06-08T16:29:27+00:00",
+        "nbSuggestions": 0,
+        "bypassedRules": [],
+        "status": 2
+      },
+      "pairingsTypes": [],
+      "isaseUnit": true,
+      "isMadeOf": [],
+      "synonyms": [
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "whiskey"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "2021"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "gifts"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "men"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "present"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "black"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "red"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "gold"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "aged"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "rare"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "exclusive"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "luxury"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "strong"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "smooth"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "reserve"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "special"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "release"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "single"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "malt"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "alcohol"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "liquor"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "liqueur"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "spirit"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "canadian"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "irish"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "bourbon"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "highball"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "barrel"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "collection"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "collectors edition"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "brands"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "Chinese"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "Asian"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "Islay"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "new"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "year"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "decanter set"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "bachelor"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "bachelorette party"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "celebration"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "anniversary"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "birthday"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "graduation"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "special occasion"
+            }
+          ]
+        }
+      ],
+      "retailerStatus": false,
+      "tags": { "targetMarket": { "id": 840 } },
+      "awardPrizeList": [],
+      "isPracticeCompatible": [],
+      "isRequiringNutritionalFactsFDAGuidelines": false,
+      "vintage": null,
+      "isSizedBy": [
+        {
+          "dimensionType": null,
+          "depth": [
+            {
+              "expressedIn": {
+                "code": "in",
+                "description": "Inches (length unit)",
+                "label": "inches"
+              },
+              "data": 1.37
+            }
+          ],
+          "width": [
+            {
+              "expressedIn": {
+                "code": "in",
+                "description": "Inches (length unit)",
+                "label": "inches"
+              },
+              "data": 1.37
+            }
+          ],
+          "height": [
+            {
+              "expressedIn": {
+                "code": "in",
+                "description": "Inches (length unit)",
+                "label": "inches"
+              },
+              "data": 4.29
+            }
+          ]
+        }
+      ],
+      "brandText": "Johnnie Walker",
+      "regulatoryNutritionalAllegationsList": [],
+      "assetsLastRequests": {},
+      "supplierCode": null,
+      "isPrivateLabel": null,
+      "partyInformationList": [
+        {
+          "partyGLN": "0082000000006",
+          "partyRoleCode": {
+            "code": "MANUFACTURER_OF_GOODS",
+            "description": "",
+            "label": "Manufacturer of Goods"
+          },
+          "structuredAddressList": [],
+          "partyNameText": "Diageo North America Inc.",
+          "partyAddressText": null
+        }
+      ],
+      "typePackaging": {
+        "code": "PACK",
+        "description": "Pack",
+        "label": "pack"
+      },
+      "unitType": "consumerUnit",
+      "namePublicLong": [
+        {
+          "expressedIn": {
+            "code": "eng-US",
+            "description": "",
+            "label": "English",
+            "normalizedCode": "en"
+          },
+          "data": "Johnnie Walker Black Label Blended Scotch Whisky, 50 mL",
+          "sort": "Johnnie Wa"
+        }
+      ],
+      "physicalCheck": { "status": 1 },
+      "composition": [],
+      "barcodeScanText": "00089000001118",
+      "packagingInformationList": [],
+      "isConsumerUnit": true,
+      "productIdentifier": null,
+      "isVarietyPack": null,
+      "assignationEvents": [],
+      "manufacturerNameText": "Diageo North America Inc.",
+      "hasDuplicated": false,
+      "isSharedFrom": [
+        {
+          "createdAt": "2021-08-13T22:55:04",
+          "firstShareDate": "2021-08-13T22:55:13",
+          "statusUpdatedAt": "2021-08-13T22:55:14",
+          "sourceOrganization": { "nameLegal": "Diageo - ProductXM" },
+          "status": {
+            "code": "ACCEPTED",
+            "description": "This share has been accepted",
+            "label": "validated"
+          },
+          "lastShareDate": "2024-07-06T16:08:14"
+        }
+      ],
+      "manufacturerGLN": "0082000000006",
+      "unitsPerConsumerUnitNumber": null,
+      "GPC": {},
+      "lifeCycle": 1,
+      "namePublicShort": [
+        {
+          "expressedIn": {
+            "code": "eng-US",
+            "description": "",
+            "label": "English",
+            "normalizedCode": "en"
+          },
+          "data": "JW Black Label"
+        }
+      ],
+      "lastRequest": null,
+      "suppliers": [],
+      "isSharedWith": [],
+      "uuid": "1dc03a70-1fc4-4f10-8d46-3d5684ef080f",
+      "startAvailabilityDateTime": null,
+      "createdAt": "2021-08-13T22:55:04",
+      "assets": {
+        "enriched_contents": [],
+        "documents": [],
+        "lastUpdatedAt": { "pictures": "2024-07-06T16:08:26" },
+        "videos": [],
+        "pictures": [
+          {
+            "fileEffectiveEndDateTime": null,
+            "pictureEffectiveEndDate": null,
+            "gdsnFileName": null,
+            "angleHorizontal": null,
+            "resolution": "300x300",
+            "uniformResourceIdentifierOrigin": null,
+            "product_key_id": 92960941,
+            "backgroundScore": 100,
+            "createdAt": "2022-12-12T20:35:26",
+            "ipUsageRights": null,
+            "scope": "public",
+            "definition": "4800x4800",
+            "crc32": "01A94096",
+            "typeOfInformation": null,
+            "isPackshot": false,
+            "webOptimizedTypeCode": null,
+            "contentType": null,
+            "exportables": [
+              {
+                "createdAt": "2022-12-12T20:35:43",
+                "productpicture_id": 31903079,
+                "fileSize": 142923,
+                "width": 1024,
+                "name": "1024x1024",
+                "crc32": "0429BFB6",
+                "uniformResourceIdentifier": "https://smedia.alkemics.com/product/picture/exportable/40240d9b-8f3f-49c1-a950-7885d1d7da2d/1024x1024.jpg",
+                "height": 1024,
+                "quality": 95,
+                "updatedAt": "2022-12-12T20:35:43"
+              },
+              {
+                "createdAt": "2022-12-12T20:35:43",
+                "productpicture_id": 31903079,
+                "fileSize": 44323,
+                "width": 512,
+                "name": "512x512",
+                "crc32": "897CFB56",
+                "uniformResourceIdentifier": "https://smedia.alkemics.com/product/picture/exportable/40240d9b-8f3f-49c1-a950-7885d1d7da2d/512x512.jpg",
+                "height": 512,
+                "quality": 95,
+                "updatedAt": "2022-12-12T20:35:43"
+              },
+              {
+                "createdAt": "2022-12-12T20:35:43",
+                "productpicture_id": 31903079,
+                "fileSize": 14129,
+                "width": 256,
+                "name": "256x256",
+                "crc32": "C3F5E4B7",
+                "uniformResourceIdentifier": "https://smedia.alkemics.com/product/picture/exportable/40240d9b-8f3f-49c1-a950-7885d1d7da2d/256x256.jpg",
+                "height": 256,
+                "quality": 95,
+                "updatedAt": "2022-12-12T20:35:43"
+              },
+              {
+                "createdAt": "2022-12-12T20:35:43",
+                "productpicture_id": 31903079,
+                "fileSize": 5060,
+                "width": 128,
+                "name": "128x128",
+                "crc32": "40014FB5",
+                "uniformResourceIdentifier": "https://smedia.alkemics.com/product/picture/exportable/40240d9b-8f3f-49c1-a950-7885d1d7da2d/128x128.jpg",
+                "height": 128,
+                "quality": 95,
+                "updatedAt": "2022-12-12T20:35:43"
+              },
+              {
+                "createdAt": "2022-12-12T20:35:43",
+                "productpicture_id": 31903079,
+                "fileSize": 2176,
+                "width": 64,
+                "name": "64x64",
+                "crc32": "DBE55047",
+                "uniformResourceIdentifier": "https://smedia.alkemics.com/product/picture/exportable/40240d9b-8f3f-49c1-a950-7885d1d7da2d/64x64.jpg",
+                "height": 64,
+                "quality": 95,
+                "updatedAt": "2022-12-12T20:35:43"
+              }
+            ],
+            "updatedAt": "2024-07-06T16:08:26",
+            "height": 4800,
+            "resolutionY": 300,
+            "sequenceNumber": null,
+            "resolutionX": 300,
+            "fileContentTypeCode": null,
+            "pictureAngleHorizontalCode": null,
+            "fileEffectiveStartDateTime": null,
+            "format": "JPEG",
+            "productFaceCode": {
+              "code": "3",
+              "description": "Back",
+              "label": "7 - Back"
+            },
+            "webOptimizedType": null,
+            "overriden": false,
+            "url": "https://smedia.alkemics.com/product/picture/40240d9b-8f3f-49c1-a950-7885d1d7da2d.jpg",
+            "tags": [],
+            "fileTypeCode": null,
+            "pictureEffectiveStartDate": null,
+            "fileSize": "1849374",
+            "pictureTypeCode": {
+              "code": "PRODUCT_IMAGE",
+              "description": "Link to a file containing a visual representation of the product.",
+              "label": "Product Image"
+            },
+            "width": 4800,
+            "angleVertical": null,
+            "masterUniformResourceIdentifier": "https://smedia.supplierxm.salsify.com/product/picture/master/5d7777d369b18b580089a04c44b2932c123bfe9a.jpg",
+            "pictureAngleVerticalCode": null,
+            "productFace": 3,
+            "fileType": null,
+            "ratio": "1.0"
+          },
+          {
+            "fileEffectiveEndDateTime": null,
+            "pictureEffectiveEndDate": null,
+            "gdsnFileName": null,
+            "angleHorizontal": null,
+            "resolution": "300x300",
+            "uniformResourceIdentifierOrigin": null,
+            "product_key_id": 92960941,
+            "backgroundScore": 100,
+            "createdAt": "2022-12-12T20:35:26",
+            "ipUsageRights": null,
+            "scope": "public",
+            "definition": "4800x4800",
+            "crc32": "099138C9",
+            "typeOfInformation": null,
+            "isPackshot": true,
+            "webOptimizedTypeCode": null,
+            "contentType": null,
+            "exportables": [
+              {
+                "createdAt": "2022-12-12T20:35:43",
+                "productpicture_id": 31903075,
+                "fileSize": 162357,
+                "width": 1024,
+                "name": "1024x1024",
+                "crc32": "C356CA9E",
+                "uniformResourceIdentifier": "https://smedia.alkemics.com/product/picture/exportable/f07045ef-f64d-4902-928d-f770add4a9d2/1024x1024.jpg",
+                "height": 1024,
+                "quality": 95,
+                "updatedAt": "2022-12-12T20:35:43"
+              },
+              {
+                "createdAt": "2022-12-12T20:35:43",
+                "productpicture_id": 31903075,
+                "fileSize": 52796,
+                "width": 512,
+                "name": "512x512",
+                "crc32": "74FF91C1",
+                "uniformResourceIdentifier": "https://smedia.alkemics.com/product/picture/exportable/f07045ef-f64d-4902-928d-f770add4a9d2/512x512.jpg",
+                "height": 512,
+                "quality": 95,
+                "updatedAt": "2022-12-12T20:35:43"
+              },
+              {
+                "createdAt": "2022-12-12T20:35:43",
+                "productpicture_id": 31903075,
+                "fileSize": 16188,
+                "width": 256,
+                "name": "256x256",
+                "crc32": "3ECC516C",
+                "uniformResourceIdentifier": "https://smedia.alkemics.com/product/picture/exportable/f07045ef-f64d-4902-928d-f770add4a9d2/256x256.jpg",
+                "height": 256,
+                "quality": 95,
+                "updatedAt": "2022-12-12T20:35:43"
+              },
+              {
+                "createdAt": "2022-12-12T20:35:43",
+                "productpicture_id": 31903075,
+                "fileSize": 5630,
+                "width": 128,
+                "name": "128x128",
+                "crc32": "61CA19B6",
+                "uniformResourceIdentifier": "https://smedia.alkemics.com/product/picture/exportable/f07045ef-f64d-4902-928d-f770add4a9d2/128x128.jpg",
+                "height": 128,
+                "quality": 95,
+                "updatedAt": "2022-12-12T20:35:43"
+              },
+              {
+                "createdAt": "2022-12-12T20:35:43",
+                "productpicture_id": 31903075,
+                "fileSize": 2138,
+                "width": 64,
+                "name": "64x64",
+                "crc32": "9ED63DF5",
+                "uniformResourceIdentifier": "https://smedia.alkemics.com/product/picture/exportable/f07045ef-f64d-4902-928d-f770add4a9d2/64x64.jpg",
+                "height": 64,
+                "quality": 95,
+                "updatedAt": "2022-12-12T20:35:43"
+              }
+            ],
+            "updatedAt": "2024-06-07T17:55:23",
+            "height": 4800,
+            "resolutionY": 300,
+            "sequenceNumber": null,
+            "resolutionX": 300,
+            "fileContentTypeCode": null,
+            "pictureAngleHorizontalCode": null,
+            "fileEffectiveStartDateTime": null,
+            "format": "JPEG",
+            "productFaceCode": {
+              "code": "0",
+              "description": "Front",
+              "label": "1 - Front"
+            },
+            "webOptimizedType": null,
+            "overriden": false,
+            "url": "https://smedia.alkemics.com/product/picture/f07045ef-f64d-4902-928d-f770add4a9d2.jpg",
+            "tags": [],
+            "fileTypeCode": null,
+            "pictureEffectiveStartDate": null,
+            "fileSize": "2104591",
+            "pictureTypeCode": {
+              "code": "MOBILE_READY_HERO_IMAGE",
+              "description": "mobile ready hero image",
+              "label": "Mobile Ready Hero Image"
+            },
+            "width": 4800,
+            "angleVertical": null,
+            "masterUniformResourceIdentifier": "https://smedia.supplierxm.salsify.com/product/picture/master/b600e6a893d0673e6d46cca8afd87f3049b81392.jpg",
+            "pictureAngleVerticalCode": null,
+            "productFace": 0,
+            "fileType": null,
+            "ratio": "1.0"
+          },
+          {
+            "fileEffectiveEndDateTime": null,
+            "pictureEffectiveEndDate": null,
+            "gdsnFileName": null,
+            "angleHorizontal": null,
+            "resolution": "300x300",
+            "uniformResourceIdentifierOrigin": null,
+            "product_key_id": 92960941,
+            "backgroundScore": 50,
+            "createdAt": "2022-12-12T20:35:26",
+            "ipUsageRights": null,
+            "scope": "public",
+            "definition": "2000x2000",
+            "crc32": "1550AA95",
+            "typeOfInformation": null,
+            "isPackshot": false,
+            "webOptimizedTypeCode": null,
+            "contentType": null,
+            "exportables": [
+              {
+                "createdAt": "2022-12-12T20:35:43",
+                "productpicture_id": 31903083,
+                "fileSize": 194586,
+                "width": 1024,
+                "name": "1024x1024",
+                "crc32": "FC7D32B0",
+                "uniformResourceIdentifier": "https://smedia.alkemics.com/product/picture/exportable/71ea074b-2925-454a-84d9-e29ad330e72c/1024x1024.jpg",
+                "height": 1024,
+                "quality": 95,
+                "updatedAt": "2022-12-12T20:35:43"
+              },
+              {
+                "createdAt": "2022-12-12T20:35:43",
+                "productpicture_id": 31903083,
+                "fileSize": 68251,
+                "width": 512,
+                "name": "512x512",
+                "crc32": "3F7B131D",
+                "uniformResourceIdentifier": "https://smedia.alkemics.com/product/picture/exportable/71ea074b-2925-454a-84d9-e29ad330e72c/512x512.jpg",
+                "height": 512,
+                "quality": 95,
+                "updatedAt": "2022-12-12T20:35:43"
+              },
+              {
+                "createdAt": "2022-12-12T20:35:43",
+                "productpicture_id": 31903083,
+                "fileSize": 22731,
+                "width": 256,
+                "name": "256x256",
+                "crc32": "83B87EBC",
+                "uniformResourceIdentifier": "https://smedia.alkemics.com/product/picture/exportable/71ea074b-2925-454a-84d9-e29ad330e72c/256x256.jpg",
+                "height": 256,
+                "quality": 95,
+                "updatedAt": "2022-12-12T20:35:43"
+              },
+              {
+                "createdAt": "2022-12-12T20:35:43",
+                "productpicture_id": 31903083,
+                "fileSize": 8415,
+                "width": 128,
+                "name": "128x128",
+                "crc32": "B508A066",
+                "uniformResourceIdentifier": "https://smedia.alkemics.com/product/picture/exportable/71ea074b-2925-454a-84d9-e29ad330e72c/128x128.jpg",
+                "height": 128,
+                "quality": 95,
+                "updatedAt": "2022-12-12T20:35:43"
+              },
+              {
+                "createdAt": "2022-12-12T20:35:43",
+                "productpicture_id": 31903083,
+                "fileSize": 3436,
+                "width": 64,
+                "name": "64x64",
+                "crc32": "B263489F",
+                "uniformResourceIdentifier": "https://smedia.alkemics.com/product/picture/exportable/71ea074b-2925-454a-84d9-e29ad330e72c/64x64.jpg",
+                "height": 64,
+                "quality": 95,
+                "updatedAt": "2022-12-12T20:35:43"
+              }
+            ],
+            "updatedAt": "2024-07-06T16:08:26",
+            "height": 2000,
+            "resolutionY": 300,
+            "sequenceNumber": null,
+            "resolutionX": 300,
+            "fileContentTypeCode": null,
+            "pictureAngleHorizontalCode": null,
+            "fileEffectiveStartDateTime": null,
+            "format": "JPEG",
+            "productFaceCode": {
+              "code": "0",
+              "description": "Front",
+              "label": "1 - Front"
+            },
+            "webOptimizedType": null,
+            "overriden": false,
+            "url": "https://smedia.alkemics.com/product/picture/71ea074b-2925-454a-84d9-e29ad330e72c.jpg",
+            "tags": [],
+            "fileTypeCode": null,
+            "pictureEffectiveStartDate": null,
+            "fileSize": "447502",
+            "pictureTypeCode": {
+              "code": "PRODUCT_IMAGE",
+              "description": "Link to a file containing a visual representation of the product.",
+              "label": "Product Image"
+            },
+            "width": 2000,
+            "angleVertical": null,
+            "masterUniformResourceIdentifier": "https://smedia.supplierxm.salsify.com/product/picture/master/ef83ff731a7869e6cc271aaaec709c63ea349c91.jpg",
+            "pictureAngleVerticalCode": null,
+            "productFace": 0,
+            "fileType": null,
+            "ratio": "1.0"
+          },
+          {
+            "fileEffectiveEndDateTime": null,
+            "pictureEffectiveEndDate": null,
+            "gdsnFileName": null,
+            "angleHorizontal": null,
+            "resolution": "300x300",
+            "uniformResourceIdentifierOrigin": null,
+            "product_key_id": 92960941,
+            "backgroundScore": 100,
+            "createdAt": "2022-12-12T20:35:26",
+            "ipUsageRights": null,
+            "scope": "public",
+            "definition": "2560x2560",
+            "crc32": "A79263EF",
+            "typeOfInformation": null,
+            "isPackshot": false,
+            "webOptimizedTypeCode": null,
+            "contentType": null,
+            "exportables": [
+              {
+                "createdAt": "2022-12-12T20:35:43",
+                "productpicture_id": 31903081,
+                "fileSize": 211775,
+                "width": 1024,
+                "name": "1024x1024",
+                "crc32": "69925450",
+                "uniformResourceIdentifier": "https://smedia.alkemics.com/product/picture/exportable/c7d65dd2-419c-46f2-92f3-2bfc898f6fcd/1024x1024.jpg",
+                "height": 1024,
+                "quality": 95,
+                "updatedAt": "2022-12-12T20:35:43"
+              },
+              {
+                "createdAt": "2022-12-12T20:35:43",
+                "productpicture_id": 31903081,
+                "fileSize": 71333,
+                "width": 512,
+                "name": "512x512",
+                "crc32": "2EAB6D2C",
+                "uniformResourceIdentifier": "https://smedia.alkemics.com/product/picture/exportable/c7d65dd2-419c-46f2-92f3-2bfc898f6fcd/512x512.jpg",
+                "height": 512,
+                "quality": 95,
+                "updatedAt": "2022-12-12T20:35:43"
+              },
+              {
+                "createdAt": "2022-12-12T20:35:43",
+                "productpicture_id": 31903081,
+                "fileSize": 20878,
+                "width": 256,
+                "name": "256x256",
+                "crc32": "AFEAE416",
+                "uniformResourceIdentifier": "https://smedia.alkemics.com/product/picture/exportable/c7d65dd2-419c-46f2-92f3-2bfc898f6fcd/256x256.jpg",
+                "height": 256,
+                "quality": 95,
+                "updatedAt": "2022-12-12T20:35:43"
+              },
+              {
+                "createdAt": "2022-12-12T20:35:43",
+                "productpicture_id": 31903081,
+                "fileSize": 5868,
+                "width": 128,
+                "name": "128x128",
+                "crc32": "CD20746E",
+                "uniformResourceIdentifier": "https://smedia.alkemics.com/product/picture/exportable/c7d65dd2-419c-46f2-92f3-2bfc898f6fcd/128x128.jpg",
+                "height": 128,
+                "quality": 95,
+                "updatedAt": "2022-12-12T20:35:43"
+              },
+              {
+                "createdAt": "2022-12-12T20:35:43",
+                "productpicture_id": 31903081,
+                "fileSize": 2278,
+                "width": 64,
+                "name": "64x64",
+                "crc32": "95BDB436",
+                "uniformResourceIdentifier": "https://smedia.alkemics.com/product/picture/exportable/c7d65dd2-419c-46f2-92f3-2bfc898f6fcd/64x64.jpg",
+                "height": 64,
+                "quality": 95,
+                "updatedAt": "2022-12-12T20:35:43"
+              }
+            ],
+            "updatedAt": "2024-07-06T16:08:26",
+            "height": 2560,
+            "resolutionY": 300,
+            "sequenceNumber": null,
+            "resolutionX": 300,
+            "fileContentTypeCode": null,
+            "pictureAngleHorizontalCode": null,
+            "fileEffectiveStartDateTime": null,
+            "format": "JPEG",
+            "productFaceCode": {
+              "code": "6",
+              "description": "Not applicable",
+              "label": "0 - Not applicable"
+            },
+            "webOptimizedType": null,
+            "overriden": false,
+            "url": "https://smedia.alkemics.com/product/picture/c7d65dd2-419c-46f2-92f3-2bfc898f6fcd.jpg",
+            "tags": [],
+            "fileTypeCode": null,
+            "pictureEffectiveStartDate": null,
+            "fileSize": "763181",
+            "pictureTypeCode": {
+              "code": "NUTRITION_FACT_LABEL",
+              "description": "Link to a file containing a visual representation of the product label containing the nutritional information.",
+              "label": "Nutrition Fact Label"
+            },
+            "width": 2560,
+            "angleVertical": null,
+            "masterUniformResourceIdentifier": "https://smedia.supplierxm.salsify.com/product/picture/master/db0264cadfdd18cb19afc3e9276683ce10d50674.jpg",
+            "pictureAngleVerticalCode": null,
+            "productFace": 6,
+            "fileType": null,
+            "ratio": "1.0"
+          }
+        ]
+      },
+      "isDisplayableAsTarget": true,
+      "netContent": [
+        {
+          "expressedIn": {
+            "code": "mL",
+            "description": "Milliliter (volume)",
+            "label": "milliliter"
+          },
+          "data": 50.0
+        }
+      ],
+      "isUserLabeledByName": [],
+      "updatedAt": "2024-07-06T16:08:37",
+      "primaryInternalReference": null,
+      "functionalName": [],
+      "productAppellationsList": [],
+      "ratioAlcohol": 40.0,
+      "kind": {
+        "code": 100980,
+        "description": "Whisky & Bourbon",
+        "label": "Whisky & Bourbon"
+      },
+      "isUserLabeledBy": [],
+      "minimumTradeItemLifespanFromTimeOfProduction": null,
+      "brandHighlight": [
+        {
+          "expressedIn": {
+            "code": "eng-US",
+            "description": "",
+            "label": "English",
+            "normalizedCode": "en"
+          },
+          "data": "The year was 1819 and John Walker’s father had just died. Within the year, the family farm had been sold and the money used to set him up with his own grocer’s shop in the thriving local town of Kilmarnock. John had a natural gift for business. He also had a genius for whisky. In those days, most grocers stocked a line of single malts, but they were never all that consistent. This wasn’t good enough for John, who started blending them together, so his whisky tasted just as good every time. When John finally passed away after a full and prosperous life in 1857, he left his son, Alexander, with a very healthy business. In 1867, he launched Johnnie Walker’s first commercial blend and called it ‘Old Highland Whisky’. Soon afterward, Alexander began using the famous square bottle to reduce breakages and made sure much more of his whisky arrived intact at its destination. He also added the distinctive label, slanted at precisely 20 degrees, to make it stand out even further from the crowd. In 1889, it was Alexander’s turn to pass on the Walker name, leaving the company to his sons, Alexander II and George - the former a master blender and the latter a master businessman. By 1920, Johnnie Walker whisky was in 120 countries. Today, Johnnie Walker is the biggest whisky brand in the world and its slogan has been adopted and embraced everywhere, as a rallying cry for progress, as encouragement in adversity, as a joyful expression of optimism, and as the best piece of advice you’re ever likely to hear."
+        }
+      ],
+      "netWeight": [
+        {
+          "expressedIn": {
+            "code": "lb",
+            "description": "Pound (weight)",
+            "label": "pound"
+          },
+          "data": 0.14
+        }
+      ],
+      "isTaggedBy": ["exportable"],
+      "allergenTypeList": [],
+      "textileModel": null,
+      "eventOccasion": [],
+      "numberOfServingsPerPackageList": [],
+      "conservations": [],
+      "volumeNumber": [],
+      "isDespatchUnit": false,
+      "description": [
+        {
+          "expressedIn": {
+            "code": "eng-US",
+            "description": "",
+            "label": "English",
+            "normalizedCode": "en"
+          },
+          "data": "Indulge all of your senses with a smooth glass of Johnnie Walker Black Label Blended Scotch Whisky. Created using only Scotch whiskies aged for a minimum of 12 years from the four corners of Scotland, Johnnie Walker Black Label has an unmistakably smooth, deep, complex character. This spirit is an impressive blended Scotch whisky to share on any occasion. Simply mix with soda water, pour over ice and garnish with a lime wedge for a Highball cocktail. Johnnie Walker was recognized as one of the world's top-trending Scotch whiskies at the 2020 Drinks International awards. Includes one 80 proof 50 mL bottle of Black Label Blended Scotch Whisky. Please drink responsibly."
+        }
+      ],
+      "specializes": {
+        "isIdentifiedBy": [{ "reference": "00089000001118" }],
+        "attribution": {}
+      },
+      "countryOfOriginList": [],
+      "tastingNotesText": [
+        {
+          "expressedIn": {
+            "code": "eng-US",
+            "description": "",
+            "label": "English",
+            "normalizedCode": "en"
+          },
+          "data": "Nose: Take in the luxurious scent of rich and tropical dark fruits with hints of sweet vanilla | Taste: Savor the depth of flavor developed from maturation in oak casks, combined with creamy toffee notes that come from grain whiskies | Finish: This iconic whisky delivers a smooth and warming smoke finish, characteristic of all Johnnie Walker whiskies"
+        }
+      ],
+      "discontinuedDateTime": null,
+      "suggestedRetailPrice": [],
+      "specificData": [],
+      "expressedIn": [
+        {
+          "presentEntities": [
+            {
+              "code": "eng-US",
+              "description": "",
+              "label": "eng-US",
+              "normalizedCode": "en"
+            }
+          ],
+          "referential": { "name": "languages" }
+        },
+        {
+          "presentEntities": [
+            {
+              "code": "in",
+              "description": "Inches (length unit)",
+              "label": "inches"
+            }
+          ],
+          "referential": { "name": "lengths" }
+        },
+        {
+          "presentEntities": [
+            {
+              "code": "mL",
+              "description": "Millilitre (volume unit)",
+              "label": "millilitre"
+            }
+          ],
+          "referential": { "name": "netcontents" }
+        },
+        {
+          "presentEntities": [
+            {
+              "code": "lb",
+              "description": "Pound (weight unit)",
+              "label": "pound"
+            }
+          ],
+          "referential": { "name": "weights" }
+        }
+      ],
+      "owner": {
+        "name": "Open Catalog",
+        "type": 2,
+        "uuid": "0c9a19c5-744f-4dc5-b250-d8b064fdc430",
+        "network": 1,
+        "status": 1,
+        "group": { "name": "Salsify" }
+      },
+      "gtin": "00089000001118",
+      "patch_summary": {
+        "has_ignored": false,
+        "total": 0,
+        "has_patch": false,
+        "has_refused": false,
+        "has_accepted": false,
+        "has_pending": false,
+        "has_disputed": false
+      },
+      "warnings": [],
+      "advices": [],
+      "specificAssets": [],
+      "useableUnits": 12,
+      "allergens": [],
+      "logisticalHierarchies": [],
+      "grossWeight": [
+        {
+          "expressedIn": {
+            "code": "lb",
+            "description": "Pound (weight)",
+            "label": "pound"
+          },
+          "data": 0.14
+        }
+      ],
+      "productBenefits": [
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "One 50 mL glass bottle of Johnnie Walker Black Label Blended Scotch Whisky"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "2020 San Francisco World Spirits Competition Double Gold Medal Winner"
+            }
+          ]
+        },
+        {
+          "text": [
+            {
+              "expressedIn": {
+                "code": "eng-US",
+                "description": "",
+                "label": "English",
+                "normalizedCode": "en"
+              },
+              "data": "Matured for 12 years for a deeper character"
+            }
+          ]
+        }
+      ],
+      "handlingInstructions": []
+    }
+  ]
+}
